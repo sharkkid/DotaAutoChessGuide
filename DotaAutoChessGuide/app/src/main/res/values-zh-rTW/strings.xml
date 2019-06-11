@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">刀塔自走棋圖鑑</string>
+    <string name="action_settings" tools:ignore="MissingTranslation">Settings</string>
+    <string name="menu">MENU的圖</string>
+
+    <!--主選單-->
+    <string name="menu__title1">自走棋玩法介紹</string>
+    <string name="menu_subtitle1">你/妳是新手嗎？ 趕快進來看看吧！</string>
+    <string name="menu__title2">自走棋英雄資訊</string>
+    <string name="menu_subtitle2">包含各英雄、裝備、怪物詳細資訊</string>
+    <string name="menu__title3">陣容搭配模擬器</string>
+    <string name="menu_subtitle3">模擬個英雄上陣觸發之羈絆效果</string>
+    <string name="menu__title4">自走棋陣容攻略</string>
+    <string name="menu_subtitle4">網友分享各種英雄羈絆打法</string>
+
+    <!--教學區-->
+    <string name="game_rule_title">遊戲規則</string>
+    <string name="game_rule_content">每局遊戲有8名玩家參與\n\n在遊戲中玩家需要使用棋子抵禦野怪或其他玩家的進攻\n\n防守失敗的玩家會損失生命值，生命值歸零時該名玩家遊戲是掰\n\n成功存活至最後的玩家獲得最終的勝利</string>
+    <string name="fight_rule_title">戰鬥資源</string>
+    <string name="fight_rule_content">在遊戲中會獲得經驗和金幣\n\n獲取足夠經驗可提升等級並提高可上陣棋子數量和高品質棋子的抽取機率\n\n金幣可用於購買棋子，經驗或刷新棋子商店</string>
+    <string name="chess_about_title">棋子相關</string>
+    <string name="chess_about_content">合理的選用適合的棋子是獲得勝利的關鍵\n\n所有玩家均會從一格公共棋池抽取棋子\n\n當擁有3個相同星級的相同棋子時可升級該棋子，使其更加強大\n\n上陣多個特定種族或職業的棋子可啟動額外的造果加成</string>
+</resources>
+

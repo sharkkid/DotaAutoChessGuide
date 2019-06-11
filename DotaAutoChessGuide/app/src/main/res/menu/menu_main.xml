@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dotaautochessguide.Controller.MainActivity">
+    <item android:id="@+id/champions_btn"
+        android:icon="@drawable/champion_1"
+        android:title="棋子"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/items_btn"
+        android:icon="@drawable/mini_item_icon"
+        android:title="裝備"/>
+    <item android:id="@+id/monsters_btn"
+        android:icon="@drawable/monster_beastmaster_boar_model"
+        android:title="怪物"/>
+</menu>

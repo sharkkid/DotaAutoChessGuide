@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dotaautochessguide.Controller.MainActivity">
+    <item android:id="@+id/sortbylevel"
+        android:title="初始化(依等級)"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/sortbyrace"
+        android:title="種族"/>
+    <item android:id="@+id/sortbyjob"
+        android:title="職業"/>
+    <item android:id="@+id/sortbyname"
+        android:title="名字"/>
+</menu>
